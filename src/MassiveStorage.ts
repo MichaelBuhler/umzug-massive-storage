@@ -11,7 +11,7 @@ export class MassiveStorage implements Storage {
 
   constructor ({
     db,
-    schema = 'public',
+    schema = 'meta',
     table = 'migrations'
   }: {
     db: Database,
