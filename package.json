@@ -1,9 +1,9 @@
 {
   "name": "umzug-massive-storage",
   "version": "1.0.0",
-  "description": "",
+  "description": "use Postgres via `massive` as a storage location for `umzug`",
   "author": "Michael Buhler <michael@michaelbuhler.com>",
-  "license": "ISC",
+  "license": "Unlicense",
   "homepage": "https://github.com/MichaelBuhler/umzug-massive-storage#readme",
   "bugs": {
     "url": "https://github.com/MichaelBuhler/umzug-massive-storage/issues"
@@ -30,11 +30,11 @@
   },
   "keywords": [
     "umzug",
-    "massive"
+    "massive",
+    "storage"
   ],
   "devDependencies": {
     "@types/massive": "^5.4.4",
-    "@types/node": "^16.6.1",
     "@types/umzug": "^2.3.2",
     "@typescript-eslint/eslint-plugin": "^4.29.1",
     "@typescript-eslint/parser": "^4.29.1",
