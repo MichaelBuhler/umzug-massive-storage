@@ -1,6 +1,6 @@
 {
   "name": "umzug-massive-storage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "use Postgres via `massive` as a storage location for `umzug`",
   "author": "Michael Buhler <michael@michaelbuhler.com>",
   "license": "Unlicense",
